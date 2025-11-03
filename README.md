@@ -1,30 +1,4 @@
-# Tabela
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      padding: 20px;
-    }
-    table {
-      border-collapse: collapse;
-      width: 80%;
-      margin: 0 auto;
-    }
-    th, td {
-      border: 1px solid #333;
-      padding: 10px;
-      text-align: center;
-    }
-    th {
-      background-color: #4CAF50;
-      color: white;
-    }
-    caption {
-      font-size: 24px;
-      margin-bottom: 15px;
-      font-weight: bold;
-    }
-  </style>
+# Tabela     
 </head>
 <body>
   <table>
