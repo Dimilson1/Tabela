@@ -1,9 +1,4 @@
 # Tabela
-<!DOCTYPE html>
-<html lang="pt">
-<head>
-  <meta charset="UTF-8">
-  <title>Registro de Nomes e Links</title>
   <style>
     body {
       font-family: Arial, sans-serif;
