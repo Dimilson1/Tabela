@@ -4,9 +4,9 @@
   <table>
     <caption>Registro de Nomes e Links</caption>
     <tr>
-      <th>Número</th>
-      <th>Nome</th>
-      <th>Link</th>
+      <th>N° DO AALUNO</th>
+      <th>NOME COMPLETO</th>
+      <th>LINK DO TRABALHO</th>
     </tr>
     <tr>
       <td>1</td>
